@@ -1,4 +1,4 @@
-﻿Marketplace
+﻿﻿Marketplace
 
 Your reward options are endless. Choose from Merchandise, Gift Cards, Tickets, Experiences, Expedia, Give Back – and more. Explore and discover rewards just for you.
 
@@ -12,3 +12,4 @@ Topics
 •	Navigating The Marketplace
 •	Product Selection
 •	Redeeming For A Reward
+
